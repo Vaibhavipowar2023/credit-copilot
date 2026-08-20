@@ -1,0 +1,16 @@
+fastapi>=0.136
+uvicorn[standard]>=0.30
+sqlalchemy[asyncio]>=2.0
+asyncpg>=0.29
+pydantic-settings>=2.4
+alembic>=1.19.1
+pgvector>=0.5.0
+httpx>=0.28.1
+langchain-text-splitters>=1.1.2
+python-multipart>=0.0.32
+mistralai>=2.9.2
+openai>=2.53.0
+cohere>=7.0.8
+groq>=1.6.0
+pyjwt>=2.13.0
+bcrypt>=5.0.0
